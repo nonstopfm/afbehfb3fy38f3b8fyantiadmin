@@ -1,0 +1,49 @@
+local name = "FrostedDelta" --// Change "playerName" with the name of the person u want to check for that joins
+
+game:GetService'Players'.PlayerAdded:Connect(function(player)
+if player.Name == name then
+game:GetService'Players'.LocalPlayer:Kick(FrostedDelta joined !)
+end
+end)
+
+
+local name = "NuIISights" --// Change "playerName" with the name of the person u want to check for that joins
+
+game:GetService'Players'.PlayerAdded:Connect(function(player)
+if player.Name == name then
+game:GetService'Players'.LocalPlayer:Kick(Null joined!)
+end
+end)
+
+local name = "H1robrine" --// Change "playerName" with the name of the person u want to check for that joins
+
+game:GetService'Players'.PlayerAdded:Connect(function(player)
+if player.Name == name then
+game:GetService'Players'.LocalPlayer:Kick(H1ro Joined !)
+end
+end)
+
+local name = "Shaflax" --// Change "playerName" with the name of the person u want to check for that joins
+
+game:GetService'Players'.PlayerAdded:Connect(function(player)
+if player.Name == name then
+game:GetService'Players'.LocalPlayer:Kick(Shaflax joined !)
+end
+end)
+
+
+local name = "e_lementai" --// Change "playerName" with the name of the person u want to check for that joins
+
+game:GetService'Players'.PlayerAdded:Connect(function(player)
+if player.Name == name then
+game:GetService'Players'.LocalPlayer:Kick(el_lementai joined !)
+end
+end)
+
+local name = "default" --// Change "playerName" with the name of the person u want to check for that joins
+
+game:GetService'Players'.PlayerAdded:Connect(function(player)
+if player.Name == name then
+game:GetService'Players'.LocalPlayer:Kick(default joined !)
+end
+end)
